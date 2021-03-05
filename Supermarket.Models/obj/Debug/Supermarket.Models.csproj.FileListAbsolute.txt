@@ -1,0 +1,6 @@
+C:\Users\TurboPC\Desktop\Supermarket.Solution\Supermarket.Models\bin\Debug\Supermarket.Models.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\Supermarket.Models\bin\Debug\Supermarket.Models.pdb
+C:\Users\TurboPC\Desktop\Supermarket.Solution\Supermarket.Models\obj\Debug\Supermarket.Models.csprojAssemblyReference.cache
+C:\Users\TurboPC\Desktop\Supermarket.Solution\Supermarket.Models\obj\Debug\Supermarket.Models.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\Desktop\Supermarket.Solution\Supermarket.Models\obj\Debug\Supermarket.Models.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\Supermarket.Models\obj\Debug\Supermarket.Models.pdb

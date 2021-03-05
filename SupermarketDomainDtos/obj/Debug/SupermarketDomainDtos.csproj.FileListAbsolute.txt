@@ -1,0 +1,6 @@
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketDomainDtos\bin\Debug\SupermarketDomainDtos.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketDomainDtos\bin\Debug\SupermarketDomainDtos.pdb
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketDomainDtos\obj\Debug\SupermarketDomainDtos.csprojAssemblyReference.cache
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketDomainDtos\obj\Debug\SupermarketDomainDtos.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketDomainDtos\obj\Debug\SupermarketDomainDtos.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketDomainDtos\obj\Debug\SupermarketDomainDtos.pdb

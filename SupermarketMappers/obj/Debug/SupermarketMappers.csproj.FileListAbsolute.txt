@@ -1,0 +1,13 @@
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\SupermarketMappers.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\SupermarketMappers.pdb
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\Supermarket.Entites.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\Supermarket.Models.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\SupermarketDomainDtos.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\Supermarket.Entites.pdb
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\Supermarket.Models.pdb
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\bin\Debug\SupermarketDomainDtos.pdb
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\obj\Debug\SupermarketMappers.csprojAssemblyReference.cache
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\obj\Debug\SupermarketMappers.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\obj\Debug\SupermarketMappers.csproj.CopyComplete
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\obj\Debug\SupermarketMappers.dll
+C:\Users\TurboPC\Desktop\Supermarket.Solution\SupermarketMappers\obj\Debug\SupermarketMappers.pdb
